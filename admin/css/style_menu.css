@@ -1,0 +1,17 @@
+/* css menu workchat */
+.container_menu {
+    display: inline-block; 
+    position: relative; 
+    width: 100%;
+}
+
+.container_menu .iframe_menu {
+    position: absolute; 
+    top: 0; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+    width: 100%; 
+    height: 90vh; 
+    overflow: hidden;
+}

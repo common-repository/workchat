@@ -1,0 +1,7 @@
+#wpcontent input[type="text"] {
+    border-color: #dbdade;
+}
+
+#wpcontent input[type="text"]:focus {
+    border-color: #7367f0;
+}

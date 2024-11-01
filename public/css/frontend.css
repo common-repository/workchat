@@ -1,0 +1,22 @@
+.clme_boxChat{
+  position: fixed;
+  right: 100px;
+  bottom: 20px;
+  text-align: center;
+  margin-right: 40px;
+}
+#clme_popup{
+  border: 0px solid;
+  border-radius: 5px;
+  width: 100%;
+  background-color: beige;
+  height: 500px;
+}
+#clme_img_chat{
+  width: 50px;
+  transition: all 0.2s;
+  display: block;
+}
+#clme_img_chat:hover{
+ width: 70px;
+}
